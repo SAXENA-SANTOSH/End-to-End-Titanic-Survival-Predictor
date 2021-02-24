@@ -1,0 +1,174 @@
+/* Main tag */
+/* heading  h1 */
+h1
+{
+    border: 2px solid black;
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+    margin-bottom: 2px;
+    border-radius: 50px;
+    background-color: orange;
+    color:black;
+    display: block;
+}
+
+/* Heading h2  */
+h2
+{
+    text-align: center;
+}
+
+/* Horizontal line  */
+hr
+{
+    border-color: black;
+}
+/* a tag  */
+a
+{
+    text-decoration: none;
+    color: black;
+}
+/* li tag  */
+li
+{
+    font-family: 'Times New Roman', Times, serif;
+    list-style: none;
+    font-size: 20px;
+    display: inline-block;
+    margin: 10px;
+}
+/* ul tag  */
+ul
+{
+    text-align: center;
+    border: 2px solid black;
+    padding: 1px;
+    border-radius: 50px;
+    margin: auto;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin: auto;
+    background-color: blue;
+}
+/* Input tag  */
+input
+{
+    display: inline-block;
+    border: 2px solid black;
+
+}
+/* body tag  */
+body
+{
+
+    background-color: black;
+
+}
+
+/* Image  */
+img
+{
+    border: 2px solid black;
+    right: 10px;
+    float: right;
+    width: 70%;
+    height: 800px;
+    margin-right: 5px;
+    margin-top: 2px;
+    display: inline-block;
+    border-radius: 50px;
+    
+}
+/* Select  */
+select
+{
+    border: 2px solid black;
+}
+
+
+/* class css */
+/* info class  */
+.info
+{
+
+}
+/* genral class  */
+.general
+{
+    border: 2px solid black;
+    display: inline-block;
+    margin: 5px;
+    margin-top: 2px;
+    padding: 15px;
+    border-radius: 50px;
+    width: 25%;
+    background-color: lightgreen;
+}
+
+/* genral_info class  */
+.general_info
+{
+    display: inline-block;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 5px;
+}
+/* Ticket class  */
+.ticket
+{
+    border : 2px solid black;
+    border-radius: 50px;
+    width: 25%;
+    padding: 15px;
+    display: inline-block;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-color: lightyellow;
+}
+/* ticket name class  */
+.ticket_name
+{
+    display: inline-block;
+    padding: 5px;
+}
+/* ticket answer  */
+.ticket_ans
+{
+    display: inline-block;
+    padding: 5px;
+}
+
+/* Predict class  */
+.predict
+{
+    border : 2px solid black;
+    display: inline-block;
+    margin-top: 2px;
+    margin-left: 5px;
+    border-radius: 50px;
+    padding: 15px;
+    width: 25%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    background-color: lightpink;
+}
+
+/* Predict button  */
+.predict
+{
+    display: block;
+    text-align: center;
+}
+.predict button
+{
+    border: 3px solid black;
+    font-size: 15px;
+    padding: 5px;
+    display: inline-block;
+}
+
+

@@ -1,0 +1,4 @@
+,Pclass,No of Passenger,Survived,Dead,S/D,Survival Rate,Dead Rate
+0,Upper,214,134,80,167.5,62.62,37.38
+1,Middle,184,87,97,89.69,47.28,52.72
+2,Lower,491,119,372,31.99,24.24,75.76
